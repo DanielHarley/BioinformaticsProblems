@@ -25,6 +25,6 @@ class DNACounter:
         self.guanine_total = self.counter.get("G")
 
     def get_nucleotides_count(self):
-        result = f"{self.adenine_total} {self.cytosine_total} {self.guanine_total} {self.thymine_total}"
-        return result
+        nucleotides_count = f"{self.adenine_total} {self.cytosine_total} {self.guanine_total} {self.thymine_total}"
+        return nucleotides_count
 
