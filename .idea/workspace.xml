@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c330b12a-199a-4fd0-b0fc-a98512393a90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/problem_1/dna_nucleotides_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_1/dna_nucleotides_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_2/transcriber.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_2/transcriber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
