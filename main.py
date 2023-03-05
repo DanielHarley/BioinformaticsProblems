@@ -2,6 +2,7 @@ problems = {
     1: "Counting DNA Nucleotides",
     2: "Transcribing DNA into RNA",
     3: "Complementing a Strand of DNA",
+    4: "Rabbits and Recurrence Relations",
 }
 
 for index in range(len(problems)):
@@ -50,3 +51,15 @@ elif user_input == "3":
 
     print(complementary_dna_sequence)
 
+# Problem 4 - Rabbits and Recurrence Relations
+elif user_input == "4":
+
+    from problem_4 import dataset as data_4
+    from problem_4.fibonacci_sequence import FibonacciSequence
+
+    print(f"Problem 2: {problems[4]}")
+
+    fibonacci_sequence = FibonacciSequence(desired_month=data_4.month_number, multiplier=data_4.born_rabbits)
+    rabbit_pairs = fibonacci_sequence.get_pairs_number()
+
+    print(rabbit_pairs)
