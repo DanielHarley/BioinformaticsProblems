@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c330b12a-199a-4fd0-b0fc-a98512393a90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/problem_4/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_4/fibonacci_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_5/dna_gc_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_5/dna_sequences.fasta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_4/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_4/dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +38,12 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Profissional/Programas/PyCharmProjects/RosalindProblems&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Profissional/Programas/PyCharmProjects/Sketch&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Profissional\Programas\PyCharmProjects\RosalindProblems\problem_5" />
       <recent name="D:\OneDrive\Profissional\Programas\PyCharmProjects\RosalindProblems\problem_1" />
     </key>
   </component>
